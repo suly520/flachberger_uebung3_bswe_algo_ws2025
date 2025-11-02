@@ -1,0 +1,6 @@
+/.idea/**
+/system/**
+/logs/**
+/target/**
+*.iml
+.history
